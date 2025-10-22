@@ -1,0 +1,29 @@
+body {
+    color: white;
+    font-family: Caveat,Shadows_Into_Light;
+    text-align: center;
+    margin: 0;
+}
+
+#heading {
+    background-color: #1F2937;
+    width: auto;
+    height: 500px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+#logo {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#main {
+    padding: 20px;
+    font-weight: bold;
+}
